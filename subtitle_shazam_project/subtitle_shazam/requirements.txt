@@ -1,0 +1,11 @@
+streamlit>=1.22.0
+sentence-transformers>=2.2.2
+chromadb>=0.4.15
+whisper>=1.1.10
+torch>=2.0.0
+numpy>=1.23.0
+transformers>=4.30.0
+python-dotenv>=1.0.0
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+tqdm>=4.65.0
